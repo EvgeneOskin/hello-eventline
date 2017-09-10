@@ -1,0 +1,12 @@
+{
+  "name": "hello-eventline",
+  "version": "0.0.0",
+  "description": "Hello world like project for Eventline project",
+  "main": "index.js",
+  "author": "EvgeneOskin <eoskin@crystalnix.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eventline": "^0.2.13",
+    "rxjs": "^5.4.3"
+  }
+}
